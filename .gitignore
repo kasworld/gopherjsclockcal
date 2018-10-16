@@ -10,3 +10,24 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+#
+
+*.o
+*.a
+*.so
+*.ini
+*.pprof
+*.out
+.*~
+*~
+
+*.sublime-project
+*.sublime-workspace
+.vscode
+
+
+jsclockcal.js
+jsclockcal.js.gz
+jsclockcal.js.map
+
