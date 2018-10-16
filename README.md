@@ -1,6 +1,7 @@
 # gopherjsclockcal
 clock calendar use golang and gopherjs
 
+goguelike web client를 만들면서 나온 부산물로 
 golang 과 gopherjs 를 사용해서 만든 달력과 시계 
 
 [GopherJS](https://github.com/gopherjs/gopherjs)
